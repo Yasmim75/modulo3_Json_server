@@ -1,0 +1,119 @@
+{
+    "imobiliaria": [
+      {
+        "id": 1,
+        "nome": "Quinto Andar",
+        "descricao": "O QuintoAndar é uma empresa que usa tecnologia e design para simplificar a locação e venda de imóveis residenciais.",
+        "categoria_id": 3,
+        "casa_id": 1,
+        "apartamento_id": 1,
+        "local": "Todo Brasil"
+      },
+      {
+        "id": 2,
+        "nome": "MRV",
+        "descricao": "A MRV acredita que você pode realizar o sonho da casa própria e há 40 anos conquista o coração de milhões de brasileiros. Por isso, temos orgulho de ser a maior Construtora da América Latina, pelo quarto ano consecutivo.",
+        "categoria_id": 1,
+        "casa_id": 2,
+        "apartamento_id": 2,
+        "local": "Todo Brasil"
+      },
+      {
+        "id": 3,
+        "nome": "RE/MAX",
+        "descricao": "A RE/MAX é a maior rede imobiliária do mundo. Isso trás para você inúmeras possibilidades e abre portas para expandir os seus sonhos. Conseguimos ajudar nossos clientes na compra ou venda de um imóvel nos mais de 100 países.",
+        "categoria_id": 4,
+        "casa_id": 3,
+        "apartamento_id": 3,
+        "local": "Internacional"
+      },
+      {
+        "id": 4,
+        "nome": "A SENTINELI E SOBRAL",
+        "descricao": "A Sentineli & Sobral é uma imobiliária na Barra da Tijuca, com a premissa de prestar um atendimento personalizado e sigiloso, disponibilizando todos os caminhos que você necessita para efetuar a compra do seu imóvel. Buscando sempre a total satisfação de proprietários e compradores, a Sentineli e Sobral está sempre atenta ao mercado, buscando as melhores opções de imóveis de alto padrão disponíveis, sendo a imobiliária com maior penetração nos condomínios da Barra, seja de apartamentos ou casas.",
+        "categoria_id": 2,
+        "casa_id": 4,
+        "apartamento_id": 4,
+        "local": "Barra da tijuca"
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "nome": "Casa/Apartamento"
+      },
+      {
+        "id": 2,
+        "nome": "Vende"
+      },
+      {
+        "id": 3,
+        "nome": "Aluguel,Compra e Venda"
+      },
+      {
+        "id": 4,
+        "nome": "Compra/Venda"
+      }
+    ],
+    "casa": [
+      {
+        "id": 1,
+        "valor": "0000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 2,
+        "valor": "000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 3,
+        "valor": "0000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 4,
+        "valor": "0000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      }
+    ],
+    "apartamento": [
+      {
+        "id": 1,
+        "valor": "0000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 2,
+        "valor": "0000000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 3,
+        "valor": "0000000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      },
+      {
+        "id": 4,
+        "valor": "0000000",
+        "descrição": "hka",
+        "formas de pagamento": "hwk",
+        "foto": "url"
+      }
+    ]
+  }
+  
