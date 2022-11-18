@@ -58,62 +58,63 @@
     "casa": [
       {
         "id": 1,
-        "valor": "0000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 1.265.000,00",
+        "descrição": "Aconchegante apartamento à venda com 4 quartos, sendo 1 suíte, e 2 banheiros no total. Este apartamento fica situado no 10º andar. O condomínio é bem equipado com diversas instalações, apropriado para quem busca lazer sem sair de casa e fica localizado em Rua Jornalista Henrique Cordeiro no bairro Barra da Tijuca em Rio de Janeiro. É bem localizado, próximo a pontos de interesse de Barra da Tijuca, tais como Cittá América, Cinemark, Downtown Shopping, Britannia English School, Canal de Marapendi e Escola Municipal Golda Meir.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       },
       {
         "id": 2,
-        "valor": "000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 165.000,00",
+        "descrição": "Linda casa de vila, com 02 quartos (01 pronto e 01 precisando finalizar), sala, cozinha, banheiro e área de serviço. O térreo foi recentemente reformado: piso, luz, hidráulica, pintura, portas e janelas. Imóvel desocupado e com documentação cristalina. A parte térrea está totalmente pronta para morar, porém a parte superior necessita de algumas reformas, incluindo trocar o teto, porque foi construído abaixo do padrão. Porém, esta parte é bem iluminada e arejada, com vista livre do bairro. Como a casa possui uma entrada independente, então a parte superior pode vir a ser concluída e alugada, gerando uma renda extra. A casa fica numa vila familiar, com mais seis casas. Ao lado da vila fica uma creche, e ao lado da creche um condomínio. Este condomínio fica na esquina da Rua Araújo Leitão. A Rua Miguel Galvão é uma ladeira que começa na Araujo Leitão. A vila fica logo no início da rua, em frente ao segundo poste de luz. Na esquina tem um ponto de ônibus com várias opções para o Centro, Tijuca (Metrô Saens Peña), Rodoviária e Zona Sul. Perto do Supermercado Prix, farmácia, academia de ginástica, igreja, salão de beleza, clínica veterinária",
+        "formas de pagamento": "financiamento e FGTS",
+        "foto": "foto.png"
       },
       {
         "id": 3,
-        "valor": "0000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 680.000,00",
+        "descrição": "Casa com 3 quartos à venda, 137 m² por R$ 680.000 - Pitangueiras - Rio de Janeiro/RJCasa recém construída composta no primeiro pavimento de salão integrado a cozinha com dispensa, banheiro social com box blindex e área de serviço. No segundo pavimento temos banheiro social e três quartos sendo um com suíte e closet e todos com varanda. Imóvel todo em porcelanato com lindo rebaixamento de teto, Garagem para até três carros.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       },
       {
         "id": 4,
-        "valor": "0000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 18.000.000,00",
+        "descrição": "Sala em diversos ambientes com projeto de iluminação, piso em nanoglass 1,20X3,00, adega, ar condicionado, lavabo decorado com cuba em inox, sala integrada a ampla varanda frontal mar com linda vista indevassável para praia. Na parte intima do imóvel um hall de distribuição, 4 suítes todas repletas de armários sendo a master com closet. Copa-cozinha com armários planejados, lavadeira e dependência completa. Hall de circulação escritório, 1 suíte com closet, banheiro social completo, acesso a área gourmet com ambiente living montada de armários, máquina de gelo, 2 cubas, geladeiras, forno, micro-ondas e cervejeira.Piscina com cascata, sauna banheiro completo e amplo espaço com uma vista cinematográfica para mar.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       }
     ],
     "apartamento": [
       {
         "id": 1,
-        "valor": "0000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 175.000,00",
+        "descrição": "Apartamento à venda com 63m², 2 quartos e 1 vaga, Apartamento no primeiro andar,posição latera, silencioso, sol da manhã, bem ventilado, sala com dois ambientes com jardim de inverno, possui quarto serviço com banheiro.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       },
       {
         "id": 2,
-        "valor": "0000000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$180.000,00",
+        "descrição": "Localização privilegiada! A MRV escolheu o bairro Buraquinho para você que quer transformar a qualidadee de vida de sua família em Lauro de Freitas e morar a apenas 5 minutos a pé da Praia.Próximo a 2ª portaria do Foz do Joanes, Praia de Buraquinho, Academia Alpha Fitness, Sartre Escola SEB - Monet, Pet Vilas, Farmácia Pague Menos, RedeMix, Colégio Adventista, Estação Villas Shopping, Colégio Mendes Vilas, Santander, Itaú, Correios e Shopping Canoas. Entre as principais vias de acesso estão a Av.Praia de Copacabana.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       },
       {
         "id": 3,
-        "valor": "0000000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 316.000,00",
+        "descrição": "Apartamento com 2 quartos à venda, 75 m² por R$ 316.000 - Moneró - Rio de Janeiro/RJExcelente apartamento, entrar e morar, todo reformado. Cercado de todo comércio e transporte da região, esse apartamento fica a pouco metros do Shopping Ilha Plaza, além diversos pontos comerciais, clinicas e escolas. Além disso está a 10 minutos da saída da Ilha , proporcionando rapidez nos deslocamentos do trabalho para casa.Este lindo apartamento, possui uma bela planta proporcionando ambientes confortáveis, sendo uma sala clara, espaçosa e bem arejada, 2 quartos sendo os dois com armários planejados, banheiros social possui armários planejados, cozinha planejada separada da área de serviço e dependência completa de empregada.Prédio com Playground, interfone, portão eletrônico e 1 vaga na escritura. O apartamento possui diferenciais como móveis planejados nos quartos, banheiro e cozinha, além de todo reformado.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       },
       {
         "id": 4,
-        "valor": "0000000",
-        "descrição": "hka",
-        "formas de pagamento": "hwk",
-        "foto": "url"
+        "valor": "R$ 2.390.000,00",
+        "descrição": "Apartamento em localização privilegiada na Barra da Tijuca, o condomínio possui total infraestrutura e ótima segurança, com farta oferta de serviços incluindo o complexo do Blue Center Mall que conta com padaria, mercado, Banco, loja de conveniência, salão de beleza, hortifruti e muito mais.O Condomínio incluí Clube Privativo, com sauna, academia de ginástica, musculação.",
+        "formas de pagamento": "financiamento",
+        "foto": "foto.png"
       }
     ]
   }
+  
   
